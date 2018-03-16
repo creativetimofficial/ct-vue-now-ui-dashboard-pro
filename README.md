@@ -1,6 +1,6 @@
 # [Vue Now UI Dashboard PRO](https://www.creative-tim.com/product/vue-now-ui-dashboard-pro) [![version][version-badge]][CHANGELOG]
 
-![alt text](https://s3.amazonaws.com/creativetim_bucket/products/69/original/opt_lbdp_vue_thumbnail.jpg?1514476712)
+![alt text](https://quip.com/-/blob/VOfAAAgWHK3/Zcuqe_FpgoQjNeNlYjWFCg?name=opt_nudp_vue_thumbnail.jpg)
 
 **[Vue Now UI Dashboard PRO](https://www.creative-tim.com/product/vue-now-ui-dashboard-pro)** is a beautiful resource built over Bootstrap and Vue.
 It will help you get started developing dashboards in no time.
